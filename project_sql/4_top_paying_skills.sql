@@ -20,5 +20,5 @@ GROUP BY
     skills
 ORDER BY
     average_skill_pay DESC
-LIMIT 25
+LIMIT 25;
 
